@@ -1,4 +1,6 @@
+#https://colab.research.google.com/drive/1AKIQld0WzjHyFm5BePABLszvYDiodD-B#scrollTo=wvDIwBS6yxm4
 #BSIS2-DV-LAB2-JAYSONB
+
 print("Enter the first number:")
 fnum = input()
 print("Enter the second number:")
@@ -23,6 +25,5 @@ print(f"Quotient: {quot}")
 print(f"Power: {pow}")
 print(f"Division with Remainder: {dwr}")
 print(f"Remainder: {r}")
-
 
 #BSIS2-DV-LAB2-JAYSONB
