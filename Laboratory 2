@@ -23,3 +23,6 @@ print(f"Quotient: {quot}")
 print(f"Power: {pow}")
 print(f"Division with Remainder: {dwr}")
 print(f"Remainder: {r}")
+
+
+#BSIS2-DV-LAB2-JAYSONB
